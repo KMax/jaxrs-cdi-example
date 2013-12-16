@@ -1,0 +1,2 @@
+jaxrs-cdi-example
+=================
